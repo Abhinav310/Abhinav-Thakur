@@ -1,6 +1,6 @@
 # My-Portfolio
 
-# Project 1 : Marketing Analysis
+# [Project 1 : Marketing Analysis](https://github.com/Abhinav310/Marketing-Analysis)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Handle the null values and filled the null values with meaningful data. 
@@ -8,14 +8,14 @@
 4. Identified a specific pattern in the data set and visualised it. 
 5. Found out the most successful ad campaign and its effect on different target countries. 
 
-# Project 2 : Indian Covid Cases Analysis
+# [Project 2 : Indian Covid Cases Analysis](https://github.com/Abhinav310/Indian-Covid-Cases-Analysis)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Visualised the data with various useful graphs. 
 3. Used the Plotly library to build the interactive line and bar graphs. 
 4. Used Folium library to build a map depicting the density of cases in the particular region of India and a map depicting rising Corona Cases. 
 
-# Project 3 :Personalized Product Recommendations
+# [Project 3 :Personalized Product Recommendations]
 
 Built a recommendation engine that suggests relevant apparels to the given apparel.
 The recommendation engine, uses information about 1,80,000 products and each product had multiple features namely:
@@ -26,7 +26,7 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 4. Type of the product
 5. Image of the apparel
 
-# Project 4 : Stock Analysis
+# [Project 4 : Stock Analysis](https://github.com/Abhinav310/Stock-Data-Analysis)
 
 1. Performed Exploratory Data Analysis and statistical analysis on 20 years of stock data of companies like NVIDIA , INTEL , QUALCOMM and IBM.
 2. Plotted the stock data onto the graphs using the libraries like matplotlib and seaborn.
