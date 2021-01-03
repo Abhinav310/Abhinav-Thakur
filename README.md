@@ -1,6 +1,6 @@
 # My-Portfolio
 
-# [Project 1 : Marketing Analysis](file:///C:/Users/avtap/Downloads/Marketing%20Analysis.html)
+# [Project 1 : Marketing Analysis](https://github.com/Abhinav310/Marketing-Analysis)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Handle the null values and filled the null values with meaningful data. 
@@ -8,7 +8,7 @@
 4. Identified a specific pattern in the data set and visualised it. 
 5. Found out the most successful ad campaign and its effect on different target countries. 
 
-# [Project 2 : Indian Covid Cases Analysis](file:///C:/Users/avtap/Downloads/COVID%20Cases%20Analysis%20-%20Jupyter%20Notebook.html)
+# [Project 2 : Indian Covid Cases Analysis](https://github.com/Abhinav310/Indian-Covid-Cases-Analysis/blob/main/India%20COVID-19%20Data%20Analysis.ipynb)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Visualised the data with various useful graphs. 
