@@ -21,7 +21,7 @@
 
 ![](/Images/cdfjkfku.PNG)
 
-![](/Images/indgraph.PNG)
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/indgraph.PNG)
 
 ![](/Images/indmap.PNG)
 
