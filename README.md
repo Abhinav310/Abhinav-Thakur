@@ -10,12 +10,20 @@
 
 ![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/m1.PNG)
 
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/mark.png)
+
 # [Project 2 : Indian Covid Cases Analysis](https://github.com/Abhinav310/Indian-Covid-Cases-Analysis/blob/main/India%20COVID-19%20Data%20Analysis.ipynb)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Visualised the data with various useful graphs. 
 3. Used the Plotly library to build the interactive line and bar graphs. 
-4. Used Folium library to build a map depicting the density of cases in the particular region of India and a map depicting rising Corona Cases. 
+4. Used Folium library to build a map depicting the density of cases in the particular region of India and a map depicting rising Corona Cases.
+
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/cdfjkfku.PNG)
+
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/ind%20graph.PNG)
+
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/ind%20map.PNG)
 
 # Project 3 :Personalized Product Recommendations
 
@@ -32,3 +40,5 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 
 1. Performed Exploratory Data Analysis and statistical analysis on 20 years of stock data of companies like NVIDIA , INTEL , QUALCOMM and IBM.
 2. Plotted the stock data onto the graphs using the libraries like matplotlib and seaborn.
+
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/stock.png)
