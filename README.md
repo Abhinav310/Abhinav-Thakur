@@ -23,7 +23,7 @@
 
 ![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/indgraph.PNG)
 
-![](/Images/indmap.PNG)
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/indmap.PNG)
 
 # Project 3 :Personalized Product Recommendations
 
