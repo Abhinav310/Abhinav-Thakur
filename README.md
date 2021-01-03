@@ -8,6 +8,8 @@
 4. Identified a specific pattern in the data set and visualised it. 
 5. Found out the most successful ad campaign and its effect on different target countries. 
 
+![](https://github.com/Abhinav310/My-Portfolio/blob/main/Images/m1.PNG)
+
 # [Project 2 : Indian Covid Cases Analysis](https://github.com/Abhinav310/Indian-Covid-Cases-Analysis/blob/main/India%20COVID-19%20Data%20Analysis.ipynb)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
