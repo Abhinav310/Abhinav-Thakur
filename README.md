@@ -21,9 +21,9 @@
 
 ![](/Images/cdfjkfku.PNG)
 
-![](/Images/ind%20graph.PNG)
+![](/Images/indgraph.PNG)
 
-![](/Images/ind%20map.PNG)
+![](/Images/indmap.PNG)
 
 # Project 3 :Personalized Product Recommendations
 
