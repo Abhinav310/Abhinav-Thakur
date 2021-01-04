@@ -2,7 +2,7 @@
 
 
 
-# [Project 1 : Marketing Analysis](https://github.com/Abhinav310/Marketing-Analysis)
+# [Project 1 : Marketing Analysis](https://www.kaggle.com/abhinavthakur31/marketing-analysis)
 
 1. Performed Exploratory Data Analysis and statistical analysis. 
 2. Handle the null values and filled the null values with meaningful data. 
